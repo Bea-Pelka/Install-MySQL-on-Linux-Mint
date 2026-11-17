@@ -6,5 +6,5 @@ A beginner-friendly guide to install MySQL on LinuxMint, available in English an
 > <br>
 > Este Guia possui uma versão em INGLẼS e PORTUGUÊS.
 > <br>
-!This is a Work In Progress!
+! This is a Work In Progress !
 
