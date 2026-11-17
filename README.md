@@ -1,4 +1,4 @@
-# Learn to Install MySQL on Linux Mint| English and Portuguese Walkthrough
+# Learn to Install MySQL on Linux Mint | English and Portuguese Walkthrough
 A beginner-friendly guide to install MySQL on LinuxMint, available in English and Portuguese for anyone who needs.
 
 > [!IMPORTANT]\
